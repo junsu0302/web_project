@@ -1,5 +1,5 @@
 # 제목 미정
-방치형 게임 프로젝트
+게임 정보 
 
 # Contents
 ### [1. 개요](#개요)          
@@ -60,7 +60,16 @@
 ```
 
 2.5. 고객 분석            
-## 2.6. 기술 환경 분석                
+## 2.6. 기술 환경 분석
+
+```markdown
+Front-end
+React, Vue.js, Angular, Svelte, TypeScript, Node.js
+
+DataBase
+Python, Docker, Airflow, AWS, GCP, Redis, CI/CD, RDB, NoSQL, Kubernetes, Node.js
+```
+
 2.7. 성공 요소 도출                 
 
 # 내부 환경 분석
