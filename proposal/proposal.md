@@ -63,11 +63,11 @@
 ## 2.6. 기술 환경 분석
 
 ```markdown
-Front-end
-React, Vue.js, Angular, Svelte, TypeScript, Node.js
+웹페이지 기술스택
+- React, Vue.js, Angular, Svelte, TypeScript, Node.js
 
-DataBase
-Python, Docker, Airflow, AWS, GCP, Redis, CI/CD, RDB, NoSQL, Kubernetes, Node.js
+데이터 관리 
+- Python, Docker, Airflow, AWS, GCP, Redis, CI/CD, RDB, NoSQL, Kubernetes, Node.js
 ```
 
 2.7. 성공 요소 도출                 
